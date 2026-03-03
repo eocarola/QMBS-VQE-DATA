@@ -1,0 +1,16 @@
+{
+  "session_id": "acctB_1765979033",
+  "account_label": "acctB",
+  "backend": "ibm_fez",
+  "instance_crn": "crn:v1:bluemix:public:quantum-computing:us-east:a/82fe567d8adc4298be31534306dd9200:ef0156a5-6e79-4f2e-8b6f-79329077f5cd::",
+  "phys_chain": [
+    144,
+    143,
+    142
+  ],
+  "k_start": 67,
+  "k_last_saved": 67,
+  "used_qsec_in_session": 30.0,
+  "start_time_utc": "2025-12-17T13:43:53.870527Z",
+  "last_update_utc": "2025-12-17T14:03:54.242030Z"
+}

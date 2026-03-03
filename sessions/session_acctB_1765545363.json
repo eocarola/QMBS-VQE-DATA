@@ -1,0 +1,15 @@
+{
+  "session_id": "acctB_1765545363",
+  "account_label": "acctB",
+  "backend": "ibm_fez",
+  "phys_chain": [
+    144,
+    143,
+    142
+  ],
+  "k_start": 46,
+  "k_last_saved": 66,
+  "used_qsec_in_session": 630.0,
+  "start_time_utc": "2025-12-12T13:16:03.960295Z",
+  "last_update_utc": "2025-12-12T13:32:08.630296Z"
+}

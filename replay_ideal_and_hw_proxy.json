@@ -1,0 +1,13 @@
+{
+  "Ns": 3,
+  "DEPTH": 2,
+  "SEED": 123,
+  "b": 1.0,
+  "J": 1.0,
+  "Delta": 0.7,
+  "E_TARGET": 0.0,
+  "A_WEIGHT": 0.5,
+  "B_WEIGHT": 0.5,
+  "arrays_npz": "replay_ideal_and_hw_proxy.npz",
+  "arrays_txt": "replay_ideal_and_hw_proxy.txt"
+}
